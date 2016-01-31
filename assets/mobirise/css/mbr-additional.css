@@ -46,3 +46,18 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 18px;
 }
+#msg-box3-9 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box4-11 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-11 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-11 .mbr-article {
+  color: #ffffff;
+}
